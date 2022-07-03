@@ -1,0 +1,5 @@
+# macOS Files
+.DS_Store
+
+#ignore all .o files
+*.o
